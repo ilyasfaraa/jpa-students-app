@@ -8,3 +8,5 @@ JPA
 5. Créer l'interface JPA Repository basée sur Spring data
 <img src="Capture/cap4.png" alt="interface">
 6. Teste quelques opérations de gestion de patients :
+<img src="Capture/cap5.png" alt="interface">
+<img src="Capture/cap6.png" alt="interface">
